@@ -3,9 +3,9 @@
 #### 一、Project Structure
 ```bash
 depin-network-final/
-├── depin-backend/              # Go + Gin
-├── jeecg-boot-master/          # SpringBoot data backend
-├── jeecgboot-vue3-master/      # Vue3
+├── depin-backend/              # Go + Gin(in this repository)
+├── jeecg-boot-master/          # SpringBoot data backend: (too big to upload in GitHub) but can be downloaded in this link:https://ai.feishu.cn/docx/PfMrdukT0oopISxhGjhcBYebnvh?from=from_copylink
+├── jeecgboot-vue3-master/      # Vue3:(too big to upload in GitHub) but can be downloaded in this link:https://ai.feishu.cn/docx/PfMrdukT0oopISxhGjhcBYebnvh?from=from_copylink
 ```
 
 #### 二、Deploy（Need Server服务器 to deploy all the projects)
@@ -39,4 +39,6 @@ cd ../jeecgboot-vue3-master
 npm install
 npm run dev
 ```
+
+
 
